@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "The school is open!"
-git merge update_script masteir
+Cool, all my changes will be now part of the main branch, ready to be deployed!”
+git merge update_script master
