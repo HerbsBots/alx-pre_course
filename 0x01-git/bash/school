@@ -1,1 +1,2 @@
-
+echo "The school is open!"
+git merge update_script master
